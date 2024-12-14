@@ -1,7 +1,7 @@
 pipeline {
     agent any 
     environment {
-        image2 = "jagadeep"
+        image2 = "jagadeep test"
         tag2 = "latest"
     }
     stages {
